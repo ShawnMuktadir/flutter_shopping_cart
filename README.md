@@ -1,6 +1,6 @@
 # flutter_shopping_cart
 
-A new Flutter application.
+Shopping cart with scoped_model in flutter
 
 ## Getting Started
 
